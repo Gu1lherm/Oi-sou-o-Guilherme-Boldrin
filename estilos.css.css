@@ -1,0 +1,25 @@
+body {
+    background-image: url('https://image.freepik.com/fotos-gratis/fundo-pela-tela-preta-papel-de-parede-acenando-preto-de-materia-textil_33771-581.jpg');
+    background-size: auto 110vh;
+    font-family: Constantia;
+  }
+  a{
+    color: lightblue;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  .menu li{
+    list-style: none;
+  }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  .text,
+  .site-subtitle,
+  .site-title{ 
+    text-align: center;
+    color: white;
+  }
